@@ -1,0 +1,1 @@
+Starting redis with python
